@@ -1,4 +1,4 @@
-# Hey, I am Carlos Sucre 👋
+Hey, I am Carlos Sucre!
 
 I am a Fullstack Developer based in Brazil, passionate about building real projects that solve problems and improve people's lives.
 
