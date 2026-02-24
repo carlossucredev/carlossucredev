@@ -6,4 +6,4 @@ I have experience working with startups and scaleups, creating web applications,
 
 I build projects from scratch, share code publicly, and continuously improve my problem-solving skills. My goal is to create software that matters.
 
-[More about me →](https://github.com/carlossucredev)
+[More about me &rarr;](https://github.com/carlossucredev)
