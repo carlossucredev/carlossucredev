@@ -6,4 +6,6 @@ I have experience working with startups and scaleups, creating web applications,
 
 I build projects from scratch, share code publicly, and continuously improve my problem-solving skills. My goal is to create software that matters.
 
+I also share my knowledge on YouTube, creating videos about programming, fullstack development, and building real projects. My goal is to help other developers learn faster and improve their skills.
+
 [More about me &rarr;](https://github.com/carlossucredev)
