@@ -1,9 +1,9 @@
-# Hey, I am Little-man 👋
+# Hey, I am Carlos Sucre 👋
 
-I am an Engineering Leader and Fullstack Developer based in Brazil.
+I am a Fullstack Developer based in Brazil, passionate about building real projects that solve problems and improve people's lives.
 
-I have over [X] years of experience working mostly with startups and scaleups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.
+I have experience working with startups and scaleups, creating web applications, automations, and tools that people actually use. I love learning new technologies, sharing knowledge, and contributing to open-source projects.
 
-I am passionate about open-source and have contributed to projects used by many developers worldwide.
+I build projects from scratch, share code publicly, and continuously improve my problem-solving skills. My goal is to create software that matters.
 
-[More about me →]([https://github.com/SEU_USUARIO](https://github.com/carlossucredev/) 
+[More about me →](https://github.com/carlossucredev)
