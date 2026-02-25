@@ -8,4 +8,4 @@ I build projects from scratch, share code publicly, and continuously improve my 
 
 I also share my knowledge on YouTube, creating videos about programming, fullstack development, and building real projects. My goal is to help other developers learn faster and improve their skills.
 
-[More about me &rarr;](carlossucredev.github.io)
+[More about me &rarr;](https://carlossucredev.github.io)
